@@ -1,6 +1,7 @@
 <h1 align="center">Glauco Rampone</h1>
 <h3 align="center">AI & ML Engineer 🤖 MSc Statistics @ ETH Zürich 🎓</h3>
-<img align="right" alt="Coding" height="300" src="https://i.imgur.com/tDyUXbK.gif">
+<img align="right" src="assets/hackerman.gif" width="150"/>
+">
 
 <ul style="list-style-type: none; margin: 0; padding: 0;">
       <li>🧠 Hello World! I’m an AI Scientist from Italy
