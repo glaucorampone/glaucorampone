@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Glauco
 
-<img align="right" src="https://media.tenor.com/4k3vXW1wYQoAAAAC/hackerman.gif" width="150"/>
+<img align="right" src="hackerman.gif" width="150"/>
 
 🎓 MSc Statistics @ ETH Zürich (Double Degree UofG + UniBO)  
 🤖 AI & ML Engineer — turning research into real products  
