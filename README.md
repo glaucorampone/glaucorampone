@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Glauco
 
-🎓 MSc Statistics @ ETH Zürich | 🤖 AI Scientist
+<img align="right" src="https://media.tenor.com/Wae1h90XoP0AAAAd/hackerman.gif" width="150"/>
 
-🌐 Ideas? Let's Connect -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-GlaucoRampone-blue)](https://www.linkedin.com/in/glauco-rampone/)
+🎓 MSc Statistics @ ETH Zürich (Double Degree UofG + UniBO)  
+🤖 AI & ML Engineer — turning research into real products  
+🚀 Building AI backends & voicebots @ Kangrats & BEING  
+
+Ideas? Let's Connect → [![LinkedIn](https://img.shields.io/badge/LinkedIn-GlaucoRampone-blue)](https://www.linkedin.com/in/glaucorampone)
+
