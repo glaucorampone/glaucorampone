@@ -1,5 +1,5 @@
 <h1 align="center">Glauco Rampone</h1>
-<h3 align="center">AI & ML Engineer 🤖 MSc Statistics @ ETH Zürich 🎓</h3>
+<h3 align="center">AI & ML Scientist 🤖 MSc Statistics @ ETH Zürich 🎓</h3>
 <img align="right" src="hackerman.gif" width="300"/>
 
 <ul style="list-style-type: none; margin: 0; padding: 0;">
